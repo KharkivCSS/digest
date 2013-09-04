@@ -60,7 +60,7 @@ select, input, textarea {
     font-family: Arial, sans-serif;
 }
 a:link  { -webkit-tap-highlight-color: #478FB2; }
-a       { color: #4aa6bd; }
+a       { color: #6DA3BD; }
 a:hover {
     color: #036;
     -webkit-transition: color 0.3s ease-out, background-color 0.3s ease-out;
