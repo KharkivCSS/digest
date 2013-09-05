@@ -131,13 +131,25 @@ a:hover {
 .ico_funny {
     background: url("../icons/ico_funny.gif") no-repeat 0 20px;
 }
-.main li i, .en {
-    background: url("../icons/ico_en.gif") no-repeat 0 4px;
+.main li i {
     display: inline-block;
-    height: 14px;
+    vertical-align: middle;
     line-height: 14px;
-    margin: 0 0 0 5px;
-    padding: 0 8px;
+    margin: 0 5px 0;
+}
+.en {
+    background: url("../icons/ico_en.gif") no-repeat 0 0;
+    width: 12px;
+    height: 10px;
+}
+.ru {
+    background: url("../icons/ico_ru.gif") no-repeat 0 0;
+    width: 12px;
+    height: 10px;
+}
+.habr {
+    background: url(../icons/ico_habr.png) 0 0 no-repeat;
+    height: 14px;
     width: 12px;
 }
 .main ul {
