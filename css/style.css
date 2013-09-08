@@ -87,55 +87,27 @@ a:hover {
     color: #4C5D65;
     font-size: 16px;
     line-height: 25px;
-    padding: 14px 0 0 23px;
+    padding: 14px 0 4px 23px;
 }
-.ico_news {
-    background: url("../icons/ico_news.gif") no-repeat 0 20px;
-}
-.ico_brows {
-    background: url("../icons/ico_brows.gif") no-repeat 0 20px;
-}
-.ico_design {
-    background: url("../icons/ico_design.gif") no-repeat 0 20px;
-}
-.ico_demo {
-    background: url("../icons/ico_demo.gif") no-repeat 0 20px;
-}
-.ico_tools {
-    background: url("../icons/ico_tools.gif") no-repeat 0 20px;
-}
-.ico_services {
-    background: url("../icons/ico_services.gif") no-repeat 0 20px;
-}
-.ico_development {
-    background: url("../icons/ico_development.gif") no-repeat 0 20px;
-}
-.ico_js {
-    background: url("../icons/ico_js.gif") no-repeat 0 20px;
-}
-.ico_jq {
-    background: url("../icons/ico_jq.gif") no-repeat 0 20px;
-}
-.ico_css {
-    background: url("../icons/ico_css.gif") no-repeat 0 20px;
-}
-.ico_h5 {
-    background: url("../icons/ico_h5.gif") no-repeat 0 20px;
-}
-.ico_interesting {
-    background: url("../icons/ico_interesting.gif") no-repeat 0 20px;
-}
-.ico_interesting {
-    background: url("../icons/ico_interesting.gif") no-repeat 0 20px;
-}
-.ico_funny {
-    background: url("../icons/ico_funny.gif") no-repeat 0 20px;
-}
+.ico_news { background: url("../icons/ico_news.gif") no-repeat 0 20px; }
+.ico_brows { background: url("../icons/ico_brows.gif") no-repeat 0 20px;}
+.ico_design {    background: url("../icons/ico_design.gif") no-repeat 0 20px;}
+.ico_demo {    background: url("../icons/ico_demo.gif") no-repeat 0 20px;}
+.ico_services { background: url("../icons/ico_services.gif") no-repeat 0 20px;}
+.ico_development { background: url("../icons/ico_development.gif") no-repeat 0 20px;}
+.ico_js { background: url("../icons/ico_js.gif") no-repeat 0 20px;}
+.ico_css { background: url("../icons/ico_css.gif") no-repeat 0 20px;}
+.ico_interesting { background: url("../icons/ico_interesting.gif") no-repeat 0 20px;}
+.ico_funny { background: url("../icons/ico_funny.gif") no-repeat 0 20px;}
+
 .main li i {
     display: inline-block;
     vertical-align: middle;
     line-height: 14px;
-    margin: 0 5px 0;
+    margin-right: 3px;
+}
+.main li i:first-of-type {
+    margin-left: 5px;
 }
 .en {
     background: url("../icons/ico_en.gif") no-repeat 0 0;
@@ -149,16 +121,27 @@ a:hover {
 }
 .habr {
     background: url(../icons/ico_habr.png) 0 0 no-repeat;
-    height: 14px;
+    height: 12px;
     width: 12px;
 }
+.fun {
+    background: url("../icons/ico_smile.gif") no-repeat 0 0;
+    height: 12px;
+    width: 12px;
+}
+.yt {
+    background: url("../icons/ico_youtube.gif") no-repeat 0 0;
+    height: 13px;
+    width: 13px;
+}
+
 .main ul {
     margin: 0;
     padding: 0 0 20px 21px;
 }
 .main ul li {
     margin: 0 0 5px 2px;
-    padding: 5px 0 0 15px;
+    padding: 2px 0 0 15px;
     position: relative;
 }
 .main ul li:before {
