@@ -75,7 +75,7 @@ a:hover {
 /* =Layout/Modules
 *******************************************************************************/
 .main {
-    width: 650px;
+    width: 750px;
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
@@ -168,4 +168,10 @@ a:hover {
     top: 3px;
     font-size: 14px;
     color: #bbb;
+}
+.cover {
+    margin-bottom: 20px;
+}
+.cover img {
+    max-width: 100%;
 }
