@@ -3,6 +3,10 @@ source 'https://rubygems.org'
 gem "middleman", "~>3.2.0"
 gem "middleman-blog", "~> 3.4.1"
 
+#gem "middleman", git: "git@github.com:middleman/middleman.git"
+#gem "middleman-blog", git: "git@github.com:middleman/middleman-blog.git"
+#gem "tzinfo-data"
+
 # Live-reloading plugin
 #gem "middleman-livereload", "~> 3.1.0"
 

@@ -2,11 +2,19 @@
 title: Дайджесты
 ---
 
-- articles = blog.articles.sort_by { |article| article.date }
-
 %h1 Дайджесты
+
+- articles = blog.articles.sort_by { |article| article.date }
 
 %ul
   - articles.each do |article|
     %li
-      = link_to article.title, article.url
+      = link_to article.title, article
+
+
+-#- articles = sitemap.resources.select {|article| article.data.category == 'digest'}.sort_by {|article| article.data.date }
+-#
+-#%ul
+-#  - articles.each do |article|
+-#    %li
+-#      = link_to article.data.title, article

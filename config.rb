@@ -53,13 +53,16 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
-set :relative_links, true
-
-# Blog submodule
+#Blog submodule
 activate :blog do |blog|
-  blog.sources = 'content/:year-:month-:day.html'
+  blog.sources = 'digests/:year-:month-:day.html'
   blog.permalink = 'digests/:year-:month-:day.html'
 end
+
+# Use relative URLs
+activate :relative_assets
+set :relative_links, true
+activate :directory_indexes
 
 # Build-specific configuration
 configure :build do
@@ -71,11 +74,6 @@ configure :build do
 
   # Enable cache buster
   # activate :asset_hash
-
-  #activate :directory_indexes
-
-  # Use relative URLs
-  activate :relative_assets
 
   # Or use a different image path
   # set :http_prefix, "/Content/images/"
