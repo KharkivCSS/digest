@@ -1,0 +1,12 @@
+---
+title: Дайджесты
+---
+
+- articles = blog.articles.sort_by { |article| article.date }
+
+%h1 Дайджесты
+
+%ul
+  - articles.each do |article|
+    %li
+      = link_to article.title, article.url

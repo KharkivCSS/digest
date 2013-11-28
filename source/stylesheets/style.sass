@@ -1,0 +1,75 @@
+/////////////////////////////////////
+// Dependencies
+/////////////////////////////////////
+
+@import compass
+@import toolkit
+
+
+/////////////////////////////////////
+// Resetting and normalizing
+/////////////////////////////////////
+
++global-reset
+
+li
+  list-style:
+    type: disc
+    position: outside
+
+
+/////////////////////////////////////
+// Layout
+/////////////////////////////////////
+
+body
+  $width: 630px
+  $padding: 20px
+  width: $width + $padding * 2
+  padding-left: $padding
+  padding-right: $padding
+  margin-left: auto
+  margin-right: auto
+
+ul, li
+  margin-left: 20px
+
+img
+  vertical-align: middle
+
+/////////////////////////////////////
+// Typography
+/////////////////////////////////////
+
+html
+  font:
+    size: 13px
+    family: Verdana, sans-serif
+  line-height: 160%
+
+h1, h2, h3, h4, h5, h6
+  line-height: 118%
+  color: #999
+
+h1
+  font-size: 30px
+  margin-bottom: 0.5em
+  color: black
+
+h2
+  font-size: 20px
+
+h3
+  font-size: 18px
+
+h4
+  font-size: 16px
+
+a
+  color: #6DA3BD
+
+  &:hover
+    color: #4d7285
+
+  &:visited
+    color: #909

@@ -1,0 +1,43 @@
+webdev:
+  name:         Вэб-разработка
+  image_url:    http://habr.habrastorage.org/post_images/b70/f9f/eae/b70f9feaeee78b42a0c78c3731555e73.gif
+
+css:
+  name:         CSS
+  image_url:    http://habr.habrastorage.org/post_images/36c/2c6/966/36c2c69660dd21085a2dcb71d7246ae6.gif
+
+js:
+  name:         JavaScript
+  image_url:    http://habr.habrastorage.org/post_images/49d/04e/fb9/49d04efb96fb6ce31cde9be5dc12a874.gif
+
+browsers:
+  name:         Браузеры
+  image_url:    http://habr.habrastorage.org/post_images/155/2bb/2c9/1552bb2c9db1673f6e3aa0b7c2df4f40.gif
+
+tools:
+  name:         Вэб-инструменты
+  image_url:    http://habr.habrastorage.org/post_images/c59/524/8ce/c595248cea9cbeab42ab6633d54d3782.gif
+
+news:
+  name:         Новости
+  image_url:    http://habr.habrastorage.org/post_images/281/994/c0f/281994c0fe695abbe6d963faed1cffb6.gif
+
+misc:
+  name:         Разное
+  image_url:    http://habr.habrastorage.org/post_images/a27/ea0/6f7/a27ea06f7d56f6b750420fcbc5c63da8.gif
+
+fun:
+  name:         Занимательное
+  image_url:    http://habr.habrastorage.org/post_images/d4b/289/ef0/d4b289ef0a00e969108c25d0c3d75f58.gif
+
+habr:
+  name:         На Хабре
+  image_url:    http://habr.habrastorage.org/post_images/ed7/acd/e0d/ed7acde0d9595da5536b9aea9a0b301b.png
+
+en:
+  name:         На английском
+  image_url:    http://habr.habrastorage.org/post_images/ac2/60c/6b4/ac260c6b4b683a38a76035e30080ea57.gif
+
+lol:
+  name:         :)
+  image_url:    http://habr.habrastorage.org/post_images/503/b9c/811/503b9c8115501b2c98c090e9b748000f.gif

@@ -1,0 +1,10 @@
+- type = :misc unless (defined? type) && type
+- id = nil unless (defined? id) && id
+- raise "Missing title" unless (defined? name) && name
+%br
+%br
+{:nomarkdown}
+%h2{id: id}
+  = partial 'partials/icon', locals: {type: type}
+  = name
+%br
