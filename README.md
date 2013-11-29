@@ -122,7 +122,8 @@ Running Middleman
 
 1. Run `bundle exec middleman`.
 2. Point your browser to http://localhost:4567/ .
-3. When you're happy with your changes, share them:
+3. You can edit digests while Middleman runs in background. Refresh your browser to see how your changes look.
+4. When you're happy with your changes, share them:
   1. `git add -A`
   2. `git commit -m "State your changes here`
   3. `git push origin middleman`
@@ -148,16 +149,16 @@ Note: the `gh-pages` branch on Github must not exist! Otherwise you would need t
 10. `git commit -m "Initial commit"`
 11. `git push origin gh-pages`.
 
-### Updating the static site to Github Pages
+### Updating the static site already hosted on Github Pages
 
-If you don't have a git repo inside `/build/`:
+If you don't have a git repo inside `/build/`, obtain it:
 
 1. `cd build/`
 2. `git clone git@github.com:KharkivCSS/digest.git .` (your repo here and don't forget the trailing dot)
 3. `git checkout gh-pages`
 4. `cd ..`
 
-When you have a git repo inside `/build`, do:
+When you have a git repo inside `/build/`, do:
 
 1. `bundle exec middleman build`
 2. `cd build/`
