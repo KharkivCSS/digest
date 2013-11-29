@@ -1,3 +1,3 @@
-def header(name, type = nil, id = nil)
-  partial 'partials/title', locals: { name: name, id: id, type: type }
+def header(name, id = nil)
+  partial 'partials/title', locals: { name: name, id: id }
 end

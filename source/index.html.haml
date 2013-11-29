@@ -9,12 +9,4 @@ title: Дайджесты
 %ul
   - articles.each do |article|
     %li
-      = link_to article.title, article
-
-
--#- articles = sitemap.resources.select {|article| article.data.category == 'digest'}.sort_by {|article| article.data.date }
--#
--#%ul
--#  - articles.each do |article|
--#    %li
--#      = link_to article.data.title, article
+      = link_to article.title, article.path

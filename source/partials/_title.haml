@@ -1,6 +1,6 @@
-- type = :misc unless (defined? type) && type
-- id = nil unless (defined? id) && id
 - raise "Missing title" unless (defined? name) && name
+- id = nil unless (defined? id) && id
+- type = data.icons[id] ? id : :misc
 %br
 %br
 {:nomarkdown}

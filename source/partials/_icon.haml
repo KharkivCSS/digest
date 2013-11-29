@@ -1,3 +1,5 @@
+-# Requires a `type` local variable equal to the icon name from the /data/icons.yml list
+
 - raise ArgumentError, "Missing icon name" unless (defined? type) && type
 - raise "Missing icon with name `#{type}`" unless data.icons[type]
 %img{src: data.icons[type][:image_url], alt: data.icons[type][:name]}<>
