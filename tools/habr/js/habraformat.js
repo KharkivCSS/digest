@@ -77,7 +77,7 @@
 
         var final1 = '<p>Просим прощения за возможные опечатки или неработающие/дублирующиеся ссылки. Если вы заметили проблему — напишите пожалуйста в личку, мы стараемся оперативно их исправлять. </p>\n\n';
 
-        var final2 = '<a href="'  + $('#lastDigestUrl').val() + '">Дайджест за прошлую неделю</a>.<br>Материал подготовили <a class="user_link" href="http://habrahabr.ru/users/dersmoll/">dersmoll</a> и <a class="user_link" href="http://habrahabr.ru/users/alekskorovin/">alekskorovin</a>.';
+        var final2 = '<a href="'  + $('#lastDigestUrl').val() + '">Дайджест за прошлую неделю</a>.<br>Материал подготовили @dersmoll и @alekskorovin.';
 
         input = firstLine + secondLine + thirdLine + input + final1 + final2;
 
