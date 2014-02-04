@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HabraFormat</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-size: 100%;
+            line-height: 2;
+        }
+        body, html {
+            position: relative;
+            height: 100%;
+            overflow-x: hidden;
+        }
+        body {
+            padding: 10px;;
+        }
+    </style>
+</head>
+<body>
+
+<textarea id="input" style="width: 100%; height: 200px; "></textarea>
+<p>
+    <span id="firstLine">Дайджест интересных материалов из мира веб-разработки и IT за последнюю неделю №</span> <input id="number" type="text" style="width: 30px;" placeholder="91"> (
+    <input type="text" id="day1" placeholder="5" style="width: 20px;" /> — <input type="text" id="day2" placeholder="12" style="width: 20px;" />
+    <select id="month">
+        <option value="января" selected="selected">января</option>
+        <option value="февраля">февраля</option>
+        <option value="марта">марта</option>
+        <option value="апреля">апреля</option>
+        <option value="мая">мая</option>
+        <option value="июня">июня</option>
+        <option value="июля">июля</option>
+        <option value="августа">августа</option>
+        <option value="сентября">сентября</option>
+        <option value="октября">октября</option>
+        <option value="ноября">ноября</option>
+        <option value="декабря">декабря</option>
+    </select>
+    <select id="year">
+        <option value="2014" selected="selected">2014</option>
+        <option value="2015">2015</option>
+    </select>
+    )
+</p>
+<p id="secondLine">Предлагаем вашему вниманию подборку с ссылками на полезные ресурсы, интересные материалы и IT-новости</p>
+<input id="mainImgURL" style="width: 100%;" type="text" placeholder="http://habrastorage.org/storage3/6c4/9fc/1b9/6c49fc1b9b6bf167f601b651e58cae0c.png">
+<img id="mainImg" src="" alt="">
+<p id="final1">
+    Просим прощения за возможные опечатки или неработающие/дублирующиеся ссылки. Если вы заметили проблему — напишите пожалуйста в личку, мы стараемся оперативно их исправлять.
+</p>
+<p id="final2">
+    <input type="text" id="lastDigestUrl" placeholder="http://habrahabr.ru/company/zfort/blog/208148/" style="width: 350px;"> Дайджест за прошлую неделю.<br>
+    Материал подготовили <a class="user_link" href="http://habrahabr.ru/users/dersmoll/">dersmoll</a> и <a class="user_link" href="http://habrahabr.ru/users/alekskorovin/">alekskorovin</a>.
+</p>
+<button id="action" style="height: 8%; width: 100%;">HabraFormat</button>
+<textarea id="output" style="width: 100%; height: 25%; "></textarea>
+<button id="check" style="height: 8%; width: 100%;">Check this</button>
+<script src="js/jquery.js"></script>
+<script src="js/habraformat.js"></script>
+</body>
+</html>
