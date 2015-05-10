@@ -46,9 +46,11 @@ html {
     height: 100%;
 }
 body {
-    font: 12px/1.2 Tahoma,Arial,Helvetica,sans-serif;
     color: #4C5D65;
-    font-size: 12px;
+    font-size: 14px;
+    margin-bottom: 10px;
+    line-height: 22.4px;
+    font-family: Verdana,sans-serif;
     background: #eee;
     height: 100%;
     width: 100%;
@@ -75,7 +77,7 @@ a:hover {
 /* =Layout/Modules
 *******************************************************************************/
 .main {
-    width: 650px;
+    width: 1000px;
     margin: 20px auto;
     padding: 20px;
     border: 1px solid #ccc;
@@ -140,15 +142,13 @@ a:hover {
     padding: 0 0 20px 21px;
 }
 .main ul li {
-    margin: 0 0 5px 2px;
-    padding: 2px 0 0 15px;
     position: relative;
 }
 .main ul li:before {
     content: "•";
     position: absolute;
-    left: 0;
-    top: 3px;
+    left: -10px;
+    top: 0px;
     font-size: 14px;
-    color: #bbb;
+    color: #000;
 }
