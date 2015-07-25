@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digest</title>
+    <meta name="description"   content="KharkivCSS"/>
+    <meta name="keywords" content="KharkivCSS"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="main">
+        <h3 id="development" class="ico_development">Веб-разработка</h3>
+        <ul>
+            <li><a href="http://www.opennet.ru/opennews/art.shtml?num=42658">Истёк срок патента на методы оптимизации JPEG</a></li>
+            <li><a href="https://xakep.ru/2015/07/23/github-198/">Прототипируй правильно, верстай быстро! Подборка приятных полезностей для разработчиков</a></li>
+            <li><i class="en"></i> <a href="https://webdesignledger.com/tips/frontend-to-backend-tips-tools-webdev#sthash.Lj3cTxzH.dpbs">От фронтенда к бэкенду: советы и инструменты для изучения веб-разработки</a> (Frontend to Backend: Tips & Tools for Learning Web Development)</li>
+            <li><i class="en"></i> <a href="https://medium.com/@PitaJ/the-dom-is-getting-better-8d1a4eaf99e7">DOM становится лучше</a> (The DOM is getting better)</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="css" class="ico_css">CSS</h3>
+        <ul>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/css-is-alive-and-well/">CSS жив и здоров</a> (CSS is Alive and Well)</li>
+            <li><a href="http://www.dejurka.ru/css/typed-text-effext-css/">Создание эффекта набора текста с использованием CSS</a></li>
+            <li><i class="en"></i> <a href="http://www.smashingmagazine.com/2015/07/smarter-grids-with-sass-and-susy/">Умные сетки с Sass и Susy</a> (Smarter Grids With Sass And Susy)</li>
+            <li><i class="en"></i> <a href="http://sixrevisions.com/sass/use-sass-in-minutes/">Используйте Sass спустя всего несколько минут</a> (Use Sass Within Minutes)</li>
+            <li><i class="en"></i> <a href="https://github.com/davidkpiano/sassdash">sassdash</a> &mdash; Sass-имплементация lodash</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/video-sass-vs-scss/">Видео: Sass против SCSS</a> (Video: Sass vs SCSS)</li>
+            <li><i class="en"></i> <a href="http://razorjam.github.io/sasscolourfunctioncalculator/">Sass Colour Function Calculator</a></li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/custom-uikit-theme-with-gulp-less/">Создание собственной UIkit темы с Gulp и Less</a> (Creating a Custom UIkit Theme with Gulp and Less)</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="js" class="ico_js">JavaScript</h3>
+        <ul>
+            <li><i class="en"></i> <a href="https://medium.com/@PitaJ/stop-classifying-javascript-4cc823dfbedf">Перестаньте толкать JavaScript в сторону использования классов</a> (Stop classifying JavaScript)</li>
+            <li><i class="en"></i> <a href="https://medium.com/@kevincennis/currying-in-javascript-c66080543528">Карринг в JavaScript</a> (Currying in JavaScript)</li>
+            <li><i class="en"></i> <a href="http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html">Ускорение JS тестов в 1000x раз</a> (Speeding up Javascript Test Time 1000x)</li>
+            <li><i class="en"></i> Книга <a href="http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html">Истории рефакторинга</a> (The Refactoring Tales)</li>
+            <li><i class="en"></i> <a href="http://www.2ality.com/2015/07/favorite-es6-features.html">Ваши излюбленные особенности JavaScript ES6?</a> (What are your favorite JavaScript ES6 features?)</li>
+            <li><i class="en"></i> <a href="https://hacks.mozilla.org/2015/07/es6-in-depth-classes/">ES6 в деталях: классы</a> (ES6 In Depth: Classes)</li>
+            <li><i class="en"></i> <a href="https://hacks.mozilla.org/2015/07/es6-in-depth-proxies-and-reflect/">ES6 в деталях: Proxy</a> (ES6 In Depth: Proxies)</li>
+            <li><i class="en"></i> <a href="http://www.2ality.com/2015/07/es6-module-exports.html">Что делает экспорт модулей в ES6?</a> (What do ES6 modules export?)</li>
+            <li><i class="en"></i> <a href="https://medium.com/@zackargyle/the-5-es7-decorators-i-want-to-use-now-ca40d1d5c114">Пять декораторов ES7 которые я хочу использовать, прямо сейчас</a> (The 5 ES7 Decorators I want to use, now.)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/creating-a-battery-viz-using-js-getting-started-and-server/">Создание приложения для получения и сообщения информации о состоянии батареи и доступных сетях Wi-Fi с Node.js:начало работы и сервер</a> (Creating a Battery viz Using Node.js: Getting Started and Server)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/creating-a-battery-viz-using-node-js-client/">Создание приложения для получения и сообщения информации о состоянии батареи и доступных сетях Wi-Fi с Node.js: клиент</a> (Creating a Battery viz Using Node.js: Client)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/an-introduction-to-nodebots/">Введение в NodeBots</a> (An Introduction to NodeBots)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/backbone-basics-models-views-collections-templates/">Основы Backbone.js: модели, вьюхи, коллекции и шаблоны</a> (Backbone.js Basics: Models, Views, Collections and Templates)</li>
+            <li><i class="en"></i> <a href="http://jsbin.com/beveno/edit?html,output">Динамическая отрисовка SVG c React</a> (Render dynamic SVG's with React)</li>
+            <li><i class="en"></i> <a href="https://nylas.com/blog/react-plugins">Создание плагинов для приложений на React</a> (Building Plugins for React Apps)</li>
+            <li><i class="en"></i> <a href="http://engineering.devmag.io/post/1/creating-an-isomorphic-blogging-app-using-react-and-flux">Создание изоморфного приложения блога с React и Flux</a> (Creating an Isomorphic Blogging app Using React and Flux)</li>
+            <li><i class="en"></i> <a href="https://medium.com/@mistadikay/declarative-data-fetching-in-react-components-with-baobab-e43184c43852">Декларативная выборка данных в компонентах React с Baobab</a> (Declarative data fetching in React components with Baobab)</li>
+            <li><i class="en"></i> Коллекция рецептов  <a href="https://github.com/billautomata/d3js_design_patterns">D3JS design patterns</a></li>
+            <li><i class="en"></i> <a href="https://plot.ly/javascript-graphing-library/">plotly.js</a> &mdash; первая библиотека для создания графиков и диаграмм</li>
+            <li><i class="en"></i> <a href="http://ytiurin.github.io/html5tooltipsjs/">html5tooltips.js</a> &mdash; всплывающие подсказки</li>
+            <li><i class="en"></i> <a href="http://www.ymc.ch/sandbox/clickspark/demo.html">ClickSpark.js</a> &mdash; декоративная утилита добавляющая эффект разлетающихся частих при клике</li>
+            <li><i class="en"></i> <a href="http://www.vexflow.com/">VexFlow</a> &mdash; API для отрисовки нот в браузере с использванием HTML5 Canvas и SVG</li>
+            <li><i class="en"></i> <a href="https://samsung.github.io/iotjs/">IoT.js</a> &mdash; фреймворк для интернета вещей</li>
+            <li><i class="en"></i> <a href="https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3">Использование теории графов для создания простого движка рекомендаций в JavaScript</a> (Using Graph Theory to Build a Simple Recommendation Engine in JavaScript)</li>
+            <li><i class="en"></i> <a href="http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx">Анонс TypeScript 1.5</a> (Announcing TypeScript 1.5)</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="news" class="ico_news">Новости</h3>
+        <ul>
+            <li><a href="http://www.opennet.ru/opennews/art.shtml?num=42646">Microsoft открыл код программно-определяемой радиосистемы Sora</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/microsoft_uberyet.html">Microsoft уберёт ссылки на компрометирующий взрослый контент из поисковой выдачи Bing</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/golosovoy_pom_cort.html">Голосовой помощник Cortana интегрируют в Windows 10 и представят на семи новых рынках</a></li>
+            <li><a href="http://ain.ua/2015/07/23/593248">Медленно, но верно: Google опять обновляет поисковый алгоритм</a></li>
+            <li><a href="http://www.cossa.ru/news/244/107079/">YouTube обновил мобильную версию, сделав ее еще удобнее</a></li>
+            <li><a href="http://gagadget.com/windows/17418-sistemnyie-trebovaniya-windows-10-dlya-raznyih-tipov-ustrojstv/">Системные требования Windows 10 для разных типов устройств</a></li>
+            <li><a href="http://www.cossa.ru/news/237/107025/">Google тестирует платные адреса Gmail</a></li>
+            <li><a href="https://xakep.ru/2015/07/23/utorrent-is-dangerous/">Антивирусные компании и Google помечают uTorrent, как малварь</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/google_zapustil_360.html">Google запустил поддержку 360-градусных рекламных видео в YouTube</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/google_zapuskaet_hotel.html">Google запускает новый интерфейс Поиска отелей</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/dolya_ad_yuot.html">Доля рекламодателей на YouTube увеличилась на 40%, а число просмотров рекламы – на 55% за год</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/linkedin_zapust_lidgen.html">LinkedIn запустила новый инструмент лидогенерации на SlideShare</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/vyruchka_yahoo_.html">Выручка Yahoo во II квартале 2015 года выросла на 15% и достигла $1,243 млрд</a></li>
+            <li><a href="http://www.cossa.ru/news/244/106933/">«Инстаграм» добавил продвинутый поиск в веб-версию</a></li>
+            <li><a href="http://www.searchengines.ru/news/archives/twitter_zapustil_target.html">Twitter запустил таргетинг на аудиторию популярных событий</a></li>
+            <li><a href="http://www.lookatme.ru/mag/live/experience-news/215999-apple-nest">Apple перестала продавать термостаты Nest</a></li>
+            <li><a href="http://siliconrus.com/2015/07/uber-rio/">Более тысячи таксистов Рио-де-Жанейро перекрыли дороги города в знак протеста против Uber</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="browser" class="ico_brows first">Браузеры</h3>
+        <ul>
+            <li><a href="http://www.opennet.ru/opennews/art.shtml?num=42642">Релиз web-браузера Chrome 44 и операционной системы Chrome OS 44</a></li>
+            <li><i class="en"></i> <a href="https://github.com/s-a/iron-node">iron-node</a> &mdash; отладка Node.js кода с Chrome DevTools (Debug Node.js code with Google Chrome Developer Tools on Linux, Windows and OS X.)</li>
+            <li><i class="en"></i> <a href="https://github.com/cymen/show-me-the-react">show-me-the-react</a> &mdash; расширение для Chrome и Firefox для подсветки React компонентов на странице</li>
+            <li><a href="http://www.opennet.ru/opennews/art.shtml?num=42633">Представлен новый план формирования выпусков Firefox OS</a></li>
+            <li><a href="http://www.3dnews.ru/917561/">В Сети появился троян для браузера Mozilla Firefox</a></li>
+            <li><a href="http://itc.ua/blogs/firefox-os-budet-samoy-nastraivaemoy-iz-sushhestvuyushhih-os-za-schet-redaktirovaniya-koda-rasshireniy-kak-v-firefox/">Firefox OS будет самой настраиваемой из существующих ОС за счет редактирования кода и расширений как в Firefox</a></li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="design" class="ico_design main-info">Сайты с интересным дизайном и функциональностью</h3>
+        <ul>
+            <li><a href="http://www.dejurka.ru/web-design/web-design-from-uk/">Сайты, следанные в Англии</a></li>
+            <li><i class="en"></i> <a href="http://line25.com/inspiration/drop-down-menu-designs">Сайты с креативными выпадающими меню</a> (20 Websites With Creative Drop Down Menu Designs)</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="design" class="ico_design">Дизайн</h3>
+        <ul>
+            <li><a href="http://siliconrus.com/2015/07/newyorktimes-concept/">Редизайн: Концепт The New York Times от российского дизайнера</a></li>
+            <li><i class="en"></i> <a href="https://medium.com/@WebdesignerDepot/the-ultimate-guide-to-designing-landing-pages-that-convert-66c740dbadee">Полное руководство по созданию дизайна конвертирующих посадочных страниц</a> (The ultimate guide to designing landing pages that convert)</li>
+            <li><i class="en"></i> <a href="http://thenextweb.com/dd/2015/07/24/6-design-trends-taking-over-the-web/">Шесть трендов дизайна преобладающих в вебе</a> (6 design trends taking over the Web)</li>
+            <li><a href="http://www.lookatme.ru/mag/live/experience-news/215995-reddit">Концепт: редизайн Reddit</a></li>
+            <li><a href="http://www.dejurka.ru/articless/design-for-recognition/">Дизайн UI: распознавание лучше чтения</a></li>
+            <li><a href="http://www.dejurka.ru/web-design/turquoise-colors-web-design/">Оттенки бирюзового в веб-дизайне</a></li>
+            <li><i class="en"></i> <a href="http://webdesign.tutsplus.com/articles/tuts-for-kids--cms-24450">Tuts+ для детей</a> (Tuts+ for Kids)</li>
+            <li><i class="en"></i> <a href="http://www.designyourway.net/blog/design/beautiful-web-design-portfolios-to-take-as-example/">Прекрасные примеры портфолио веб-дизайна</a> (Beautiful Web Design Portfolios To Take As Example)</li>
+            <li><i class="en"></i> <a href="https://webdesignledger.com/tips/locate-ui-usability-problems#sthash.MkhQH4vI.dpbs">Как определить и исправить проблемы с юзабилити</a> (How To Locate &amp; Fix Usability Problems)</li>
+            <li><i class="en"></i> <a href="http://design.tutsplus.com/tutorials/how-to-create-a-serbian-ethnic-design-pirot-kilim-pattern--cms-24314">Как создать сербский этнический дизайн: Pirot Kilim паттерн</a> (How to Create a Serbian Ethnic Design: Pirot Kilim Pattern)</li>
+            <li><i class="en"></i> <a href="http://justcreative.com/2015/07/20/23-awesome-online-resources-for-design-inspiration/">Ресурсы для вдохновения дизайнеров</a> (23 Awesome Online Resources for Design Inspiration)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/codesign-tools-is-it-time-to-switch/">CoDesign инструменты: пришло ли время переключаться на них?</a> (CoDesign Tools: Is it Time to Switch?)</li>
+            <li><i class="en"></i> <a href="http://www.sitepoint.com/making-minimalism-work-in-mobile-and-web/">Создание минимализма для Web и мобильных устройств</a> (Making Minimalism Work in Mobile and Web)</li>
+            <li><i class="en"></i> <a href="https://medium.com/@WebdesignerDepot/6-tips-for-successful-design-critiques-85527929f07f">Шесть советов для успешных критиков дизайна</a> (6 tips for successful design critiques)</li>
+            <li><i class="en"></i> <a href="https://medium.com/user-experience-design-1/the-anatomy-of-a-credit-card-payment-form-32ec0e5708bb">Анатомия формы для данных кредитки</a> (The anatomy of a credit card form)</li>
+            <li><i class="en"></i> <a href="http://veerle.duoh.com/design/article/create_a_beach_illustration_in_adobe_illustrator">Создание иллюстрации пляжа в Adobe Illustrator</a> (Create a beach illustration in Adobe Illustrator)</li>
+            <li><a href="http://www.dejurka.ru/tutorial/laurel-wreath-vector/">Рисуем лавровый венок в Adobe Illustrator</a></li>
+            <li><a href="http://www.dejurka.ru/inspiration/summer-illustrations-2015/">Летние иллюстрации 2015 года</a></li>
+            <li><i class="en"></i> <a href="http://design.tutsplus.com/tutorials/how-to-create-a-tasty-trendy-menu-card-in-adobe-indesign--cms-24083">Как создать трендовое меню для кафе в Adobe InDesign</a> (How to Create a Tasty, Trendy Menu Card in Adobe InDesign)</li>
+            <li><i class="en"></i> <a href="http://design.tutsplus.com/tutorials/how-to-create-a-set-of-flat-hiking-icons-in-affinity-designer--cms-24202">Как создать серию плоских иконок на тему альпинизма в Affinity Designer</a> (How to Create a Set of Flat Hiking Icons in Affinity Designer)</li>
+            <li><i class="en"></i> <a href="https://webdesignledger.com/tips/how-fonts-make-or-break-design#sthash.QBJHW0HO.dpbs">Как выбор шрифта может сломать ваш дизайн</a> (How Font Choices can Make or Break your Design)</li>
+            <li><a href="http://www.dejurka.ru/inspiration/vintage-typography-inspiration/">Винтажная типографика для вашего вдохновения</a></li>
+            <li><i class="en"></i> <a href="https://medium.com/@ImJasonLi/around-the-world-with-uber-1246b0bb796d">Вокруг света с Uber</a> (Around The World With Uber)</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="design3" class="ico_design">Подборка бесплатных дизайнерских печенек</h3>
+        <ul>
+            <li><i class="en"></i> <a href="http://www.coalesceideas.com/33-free-high-quality-blur-backgrounds/">Качественные размытые фоны</a> (33 Free High Quality Blur Backgrounds)</li>
+            <li><a href="http://www.dejurka.ru/graphics/useful-illustrator-brushes/">Полезные кисти для Adobe Illustrator</a></li>
+            <li><i class="en"></i> <a href="http://gsquaredstudios.com/free-device-mockup-psd/">Мокап для демонстрации дизайна</a> (Free Device Mockup Psd)</li>
+            <li><i class="en"></i> <a href="http://webuilddesign.com/75-free-business-card-psd-templates/">PSD-шаблоны визиток</a> (75 Free Business Card PSD Templates)</li>
+            <li><i class="en"></i> <a href="http://webuilddesign.com/10-free-psd-ui-kit-from-july-2015/">Июльские наборы UI в PSD формате</a> (10 Free PSD UI KIT from July 2015)</li>
+            <li><i class="en"></i> <a href="http://line25.com/articles/free-vector-download">Векторные изображения</a> (Free Vector Download: 350+ Vector Art Freebies)</li>
+            <li><i class="en"></i> <a href="http://speckyboy.com/2015/07/23/freebie-the-flat-superheroes-villains-icon-set-100-icons-png-svg/">Плоские иконки супергерои и злодеи</a> (Freebie: The Flat Superheroes & Villains Icon Set (100 Icons, PNG & SVG))</li>
+            <li><a href="http://www.dejurka.ru/graphics/ecommerce-clipart/">Стильная графика для Интернет-магазинов</a></li>
+            <li><i class="en"></i> <a href="http://tympanus.net/codrops/2015/07/20/freebie-cinema-icon-set/">Набор векторных иконок на тему кино (SVG)</a> (Freebie: Cinema Icon Set (SVG))</li>
+            <li><i class="en"></i> <a href="http://iconstore.co/icons/birply-icons/">Birply иконки</a> (Birply Icons)</li>
+            <li><i class="en"></i> <a href="http://www.fusionplate.com/6156/26-fresh-free-fonts-july-2015-edition/">Свежие июльские шрифты</a> (26 Fresh Free Fonts – July 2015 Edition)</li>
+            <li><i class="en"></i> <a href="http://www.webdesignerdepot.com/2015/07/free-download-200-flat-icons-from-smashicons/">Плоские иконки от Smashicons</a> (Free download: 200 flat icons from Smashicons)</li>
+            <li><i class="en"></i> <a href="https://www.behance.net/gallery/27964583/BERNIER-Free-Typefamily">BERNIER™</a> &mdash; декоративный шрифт без засечек</li>
+        </ul>
+    </div>
+    <div>
+        <h3 id="demo" class="ico_demo">Демо</h3>
+        <ul></ul>
+        <div>
+            <h3 id="interesting" class="ico_interesting">Занимательное</h3>
+            <ul>
+                <li><a href="http://www.computerra.ru/128799/uconnect-car-exploit/">UConnect: перехват управления автомобилями через интернет</a></li>
+                <li><a href="http://keddr.com/2015/07/pochemu-ya-reshil-otkazatsya-ot-tvittera/">Почему я решил отказаться от Твиттера</a></li>
+                <li><a href="http://keddr.com/2015/07/internet-veshhey-vash-samyiy-strashnyiy-koshmar/">Интернет вещей — ваш самый страшный кошмар</a></li>
+                <li><a href="http://www.3dnews.ru/917552/">В Великобритании оператору дрона грозит тюремное заключение в случае угрозы полёту авиалайнера</a></li>
+                <li><a href="http://siliconrus.com/2015/07/jobs-quotes/">Высказывания Стива Джобса о дизайне, маркетинге и фокус-группах</a></li>
+                <li><a href="http://itc.ua/blogs/monitor-v-kotorom-kazhdyiy-piksel-eto-katushka-s-tsvetnyimi-nitkami/">Монитор, в котором каждый пиксель – это катушка с цветными нитками</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
