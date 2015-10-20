@@ -1,6 +1,44 @@
 ; (function ($) {
     'use strict'
 
+    var loadDigestNumber = function() {
+        var $numberEl = $('#number'),
+            newNumber = 0,
+            storage = window.localStorage,
+            savedNumber = storage.getItem("digestNumber");
+
+        if(savedNumber) {
+            newNumber = savedNumber;
+            newNumber++;
+            $numberEl.val(newNumber);
+        }
+    };
+
+    loadDigestNumber();
+
+
+    var getCurrentDate = function() {
+        var $day1El = $('#day1'),
+            $day2El = $('#day2'),
+            $monthEl = $('#month'),
+            $yearEl = $('#year'),
+            currentTime = new Date(),
+            month = currentTime.getMonth() + 1,
+            day = currentTime.getDate(),
+            previousDay = 0,
+            year = currentTime.getFullYear();
+
+        $day2El.val(day);
+        previousDay = day - 7;
+        if(previousDay >= 0) {
+            $day1El.val(previousDay);
+        }
+        $monthEl.find('option:nth-child('+month+')').attr("selected", true);
+        $yearEl.val(year);
+    };
+
+    getCurrentDate();
+
     var habraformatMe = function() {
         var $input = $('#input'),
             $output = $('#output'),
@@ -27,6 +65,22 @@
         for(var i = 0, l = linesToReplace.length; i < l; i++) {
             input = input.replace(linesToReplace[i] + '\n', '');
         }
+
+        var setupDigestNumber = function() {
+            var $numberEl = $('#number'),
+                currentNumber = $numberEl.val(),
+                newNumber = 0,
+                storage = window.localStorage,
+                savedNumber = storage.getItem("digestNumber");
+
+            if(currentNumber.length) {
+                if(storage) {
+                    storage.setItem("digestNumber", currentNumber);
+                }
+            }
+        };
+
+        setupDigestNumber();
 
         var firstLine = $('#firstLine').text() +
             + $('#number').val() + ' ('
@@ -77,7 +131,7 @@
 
         var final1 = '<p>Просим прощения за возможные опечатки или неработающие/дублирующиеся ссылки. Если вы заметили проблему — напишите пожалуйста в личку, мы стараемся оперативно их исправлять. </p>\n\n';
 
-        var final2 = '<a href="'  + $('#lastDigestUrl').val() + '">Дайджест за прошлую неделю</a>.<br>Материал подготовили @dersmoll и @alekskorovin.';
+        var final2 = '<a href="'  + $('#lastDigestUrl').val() + '">Дайджест за прошлую неделю</a>.<br>Материал подготовили <a class="user_link" href="http://habrahabr.ru/users/dersmoll/">dersmoll</a> и <a class="user_link" href="http://habrahabr.ru/users/alekskorovin/">alekskorovin</a>.';
 
         input = firstLine + secondLine + thirdLine + input + final1 + final2;
 
