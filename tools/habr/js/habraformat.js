@@ -49,8 +49,7 @@
             '<html>',
             '<head>',
             '    <title>Digest</title>',
-            '    <meta name="description"',
-            '          content="KharkivCSS"/>',
+            '    <meta name="description"   content="KharkivCSS"/>',
             '    <meta name="keywords" content="KharkivCSS"/>',
             '    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>',
             '    <link rel="stylesheet" href="css/style.css" />',
@@ -107,19 +106,19 @@
         // Remove indention
         input = input.replace(/    </gi, '<');
         // Replace Вебразработка
-        input = input.replace(' id="development" class="ico_development">', '><img src="http://habr.habrastorage.org/post_images/b70/f9f/eae/b70f9feaeee78b42a0c78c3731555e73.gif"/> ');
+        input = input.replace(' id="development" class="ico_development">', '><anchor>webdev</anchor><img src="http://habr.habrastorage.org/post_images/b70/f9f/eae/b70f9feaeee78b42a0c78c3731555e73.gif"/> ');
         // Replace CSS
-        input = input.replace(' id="css" class="ico_css">', '><img src="http://habr.habrastorage.org/post_images/36c/2c6/966/36c2c69660dd21085a2dcb71d7246ae6.gif"/> ');
+        input = input.replace(' id="css" class="ico_css">', '><anchor>css</anchor><img src="http://habr.habrastorage.org/post_images/36c/2c6/966/36c2c69660dd21085a2dcb71d7246ae6.gif"/> ');
         // Replace JavaScript
-        input = input.replace(' id="js" class="ico_js">', '><img src="http://habr.habrastorage.org/post_images/49d/04e/fb9/49d04efb96fb6ce31cde9be5dc12a874.gif"/> ');
+        input = input.replace(' id="js" class="ico_js">', '><anchor>js</anchor><img src="http://habr.habrastorage.org/post_images/49d/04e/fb9/49d04efb96fb6ce31cde9be5dc12a874.gif"/> ');
         // Replace Веб-инструменты
         input = input.replace(' class="ico_services" id="services">', '><img src="http://habr.habrastorage.org/post_images/c59/524/8ce/c595248cea9cbeab42ab6633d54d3782.gif"/> ');
         // Replace Браузеры
-        input = input.replace(' id="browser" class="ico_brows">', '><img src="http://habr.habrastorage.org/post_images/c59/524/8ce/c595248cea9cbeab42ab6633d54d3782.gif"/> ');
+        input = input.replace(' id="browser" class="ico_brows">', '><anchor>browser</anchor><img src="http://habr.habrastorage.org/post_images/c59/524/8ce/c595248cea9cbeab42ab6633d54d3782.gif"/> ');
         // Replace Новости
-        input = input.replace(' id="news" class="ico_news">', '><img src="http://habr.habrastorage.org/post_images/281/994/c0f/281994c0fe695abbe6d963faed1cffb6.gif"/> ');
+        input = input.replace(' id="news" class="ico_news">', '><anchor>news</anchor><img src="http://habr.habrastorage.org/post_images/281/994/c0f/281994c0fe695abbe6d963faed1cffb6.gif"/> ');
         // Replace Сайты с интересным дизайном
-        input = input.replace(' id="design" class="ico_design">', '><img src="http://habr.habrastorage.org/post_images/a27/ea0/6f7/a27ea06f7d56f6b750420fcbc5c63da8.gif"/> ');
+        input = input.replace(' id="design" class="ico_design">', '><anchor>design</anchor><img src="http://habr.habrastorage.org/post_images/a27/ea0/6f7/a27ea06f7d56f6b750420fcbc5c63da8.gif"/> ');
         // Replace Сайты с интересным дизайном
         input = input.replace(' id="design" class="ico_design">', '><img src="http://habr.habrastorage.org/post_images/a27/ea0/6f7/a27ea06f7d56f6b750420fcbc5c63da8.gif"/> ');
         // Replace Сайты с интересным дизайном
@@ -127,13 +126,15 @@
         // Replace Demo
         input = input.replace(' id="demo" class="ico_demo">', '><img src="http://habr.habrastorage.org/post_images/c59/524/8ce/c595248cea9cbeab42ab6633d54d3782.gif"/> ');
         // Replace Занимательное
-        input = input.replace(' id="interesting" class="ico_interesting">', '><img src="http://habr.habrastorage.org/post_images/d4b/289/ef0/d4b289ef0a00e969108c25d0c3d75f58.gif"/> ');
+        input = input.replace(' id="interesting" class="ico_interesting">', '><anchor>intresting</anchor><img src="http://habr.habrastorage.org/post_images/d4b/289/ef0/d4b289ef0a00e969108c25d0c3d75f58.gif"/> ');
+
+        var contest = '<table><tbody><tr><td><a href="#webdev"><b>Веб-разработка</b></a></td></tr><tr><td><a href="#css"><b>CSS</b></a></td></tr><tr><td><a href="#js"><b>Javascript</b></a></td></tr><tr><td><a href="#browser"><b>Браузеры</b></a></td></tr><tr><td><a href="#design"><b>Дизайн</b></a></td></tr><tr><td><a href="#news"><b>Новости</b></a></td></tr><tr><td><a href="#intresting"><b>Занимательное</b></a></td></tr></tbody></table>\n\n';
 
         var final1 = '<p>Просим прощения за возможные опечатки или неработающие/дублирующиеся ссылки. Если вы заметили проблему — напишите пожалуйста в личку, мы стараемся оперативно их исправлять. </p>\n\n';
 
         var final2 = '<a href="'  + $('#lastDigestUrl').val() + '">Дайджест за прошлую неделю</a>.<br>Материал подготовили <a class="user_link" href="http://habrahabr.ru/users/dersmoll/">dersmoll</a> и <a class="user_link" href="http://habrahabr.ru/users/alekskorovin/">alekskorovin</a>.';
 
-        input = firstLine + secondLine + thirdLine + input + final1 + final2;
+        input = firstLine + secondLine + thirdLine + contest + input + final1 + final2;
 
         $output.val(input);
     };
