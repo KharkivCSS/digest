@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digest</title>
+    <meta name="description"   content="KharkivCSS"/>
+    <meta name="keywords" content="KharkivCSS"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="main">
+        <div>
+            <h3 id="development" class="ico_development">Веб-разработка</h3>
+            <ul>
+                <li><i class="en"></i> <a href="http://zurb.com/article/1447/happy-birthday-foundation-five-years-of-f">С Днём рождения Foundation: пять первых лет первого адаптивного фреймворка</a> (Happy Birthday Foundation: Five Years of Firsts)</li>
+                <li><i class="en"></i> <a href="https://nolanlawson.com/2016/10/13/progressive-enhancement-isnt-dead-but-it-smells-funny/">Прогрессивное улучшение не мертво, но уже забавно смотрится</a> (Progressive enhancement isn’t dead, but it smells funny)</li>
+                <li><i class="en"></i> <a href="https://github.com/woganmay/excel-bootstrap">excel-bootstrap &mdash; генератор сайта на бутстрапе из Excel</a> (excel-bootstrap &mdash; Generate Bootstrap websites from Microsoft Excel)</li>
+                <li><i class="en"></i> <a href="https://github.com/noffle/art-of-readme">Руководство по написанию качественных README файлов</a> (Learn the art of writing quality READMEs.)</li>
+                <li><i class="en"></i> <a href="https://medium.com/remys-blog/one-weird-devtool-trick-this-developer-uses-experts-hate-him-922ec78eb6cf#.xwecfhumq">Один (экстра) трюк с devtools</a> (One (extra) devtools trick)</li>
+                <li><i class="en"></i> <a href="https://www.ventusky.com/">Ventusky &mdash; сайт показывающий погоду в реальном времени</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="css" class="ico_css">CSS</h3>
+            <ul>
+                <li><i class="en"></i> <a href="https://css-tricks.com/styling-underlines-web/">Стилизация подчёркивания в вебе</a> (Styling Underlines on the Web)</li>
+                <li><i class="en"></i> <a href="http://thenextweb.com/google/2016/10/09/google-now-lets-convert-rgb-hex-values/">Google позволяет конвертировать цвета в форматах RGB и Hex</a> (Google now lets you convert between RGB and Hex values)</li>
+                <li><a href="http://www.dejurka.ru/css/css-highlighter-using-pseudo-selector/">Интересный эффект выделения текста с использованием псевдоэлемента CSS выделения</a></li>
+                <li><i class="en"></i> <a href="https://medium.okgrow.com/building-a-maintainable-and-scalable-css-codebase-with-itcss-ceda5b2f495b#.zdzcso12f">Создание масштабируемой и поддерживаемой кодовой базы CSS с ITCSS</a> (Building a Maintainable and Scalable CSS Codebase with ITCSS)</li>
+                <li><i class="en"></i> <a href="http://codepen.io/bali_balo/pen/BLJONk">Сапёр на чистом CSS</a> (Pure CSS minesweeper)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="js" class="ico_js">JavaScript</h3>
+            <ul>
+                <li><a href="http://www.opennet.ru/opennews/art.shtml?num=45305">Facebook представил Yarn, новый пакетный менеджер для JavaScript</a></li>
+                <li><i class="en"></i> <a href="https://github.com/yarnpkg/yarn">Представление нового менеджера пакетов yarn</a> (yarn &mdash; Fast, reliable, and secure dependency management.)</li>
+                <li><i class="en"></i> <a href="https://auth0.com/blog/five-things-you-can-do-with-yarn/">Пять вещей которые можно делать с Yarn</a> (5 things you can do with Yarn)</li>
+                <li><i class="en"></i> <a href="https://shapeshed.com/thoughts-on-yarn/">Мысли относительно yarn</a> (Thoughts on yarn)</li>
+                <li><i class="en"></i> <a href="http://yehudakatz.com/2016/10/11/im-excited-to-work-on-yarn-the-new-js-package-manager-2/">Почему работаю на Yarn (Иегуда Катц)</a> (Why I'm Working on Yarn)</li>
+                <li><i class="en"></i> <a href="https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc#.k03h6c3yb">Шпаргалка NPM против Yarn</a> (NPM vs Yarn Cheat Sheet)</li>
+                <li><i class="en"></i> <a href="https://blog.elazzabi.com/testing-yarn-a-fast-npm-for-javascript-6fb4be5da36b#.4tf73vp6h">Тестирование yarn, быстрого npm для JavaScript</a> (Testing yarn, a fast npm for JavaScript)</li>
+                <li><i class="en"></i> <a href="https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript/">Yarn: новый менеджер пакетов в JavaScript</a> (Yarn: A new package manager for JavaScript)</li>
+                <li><i class="en"></i> <a href="https://egghead.io/lessons/javascript-yarn-a-javascript-package-manager">Yarn: JavaScript менеджер пакетов (видео)</a> (Yarn: A JavaScript Package Manager)</li>
+                <li><i class="en"></i> <a href="https://github.com/vitorcamachoo/yarnrc">yarnrc</a></li>
+                <li><i class="en"></i> <a href="http://gilesbowkett.blogspot.co.uk/2016/10/this-infographic-explains-why-js-dev.html">Инфографика объясняющая почему JS разработка выглядит так сложно</a> (This Infographic Explains Why JS Dev Seems So Complicated)</li>
+                <li><i class="en"></i> <a href="https://medium.com/front-end-hacking/front-end-is-and-javascript-is-d4bc3a8edbb7#.am8brx3za">Front-end это клёво и JavaScript это король</a> (Front-end is cool and JavaScript is a king)</li>
+                <li><i class="en"></i> <a href="http://jazcash.com/a-javascript-journey-with-only-six-characters/">Путешествие в JavaScript всего с шестью символами</a> (A Javascript journey with only six characters)</li>
+                <li><i class="en"></i> <a href="http://www.2ality.com/2016/10/asynchronous-iteration.html">ES предложение: асинхронная итерация</a> (ES proposal: asynchronous iteration)</li>
+                <li><i class="en"></i> <a href="https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f#.muqgbtdzq">Лёгкие трюки с ES6</a> (Stupid ES6 tricks)</li>
+                <li><i class="en"></i> <a href="https://hackernoon.com/recursion-in-javascript-with-es6-destructuring-and-rest-spread-4b22ae5998fa#.sbvv4y533">Рекурсия в JavaScript с ES6, destructuring и rest/spread</a> (Recursion in JavaScript with ES6, destructuring and rest/spread)</li>
+                <li><i class="en"></i> <a href="https://medium.com/javascript-inside/form-validation-as-a-higher-order-component-pt-1-83ac8fd6c1f0#.umgzj7plc">Валидация форм как компонент высокого порядка часть.1</a> (Form Validation As A Higher Order Component Pt.1)</li>
+                <li><i class="en"></i> <a href="https://codingbox.io/do-you-need-service-worker-in-your-web-app-d68131d65e2c#.fue4jsmdm">Необходимы ли Service Worker-ы для твоего веб приложения?</a> (Do you need Service Worker in your web app?)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@jiyinyiyong/what-we-have-in-china-about-react-js-9af983fcb984#.wxumgmwcr">Как тут у нас в Китае с React.js</a> (What we have in China about React.js)</li>
+                <li><i class="en"></i> <a href="http://react-day-picker.js.org/">react-day-picker</a> &mdash; календарь для React</li>
+                <li><i class="en"></i> <a href="http://dev.topheman.com/d3-react-components-with-victory-reusability-composability/">D3 React компоненты с Victory – повторное использование / компонуемость</a> (D3 React Components with Victory – Reusability / Composability)</li>
+                <li><i class="en"></i> <a href="https://github.com/desklamp-js/desklamp">desklamp &mdash; чистый контейнер для роутинга и state для react </a> (desklamp &mdash; clean routing and state container for react)</li>
+                <li><i class="en"></i> <a href="https://github.com/Semantic-Org/Semantic-UI-React">Официальная интеграция Semantic-UI-React</a></li>
+                <li><i class="en"></i> <a href="https://www.fullstackreact.com/react-daily-ui/003-landing-page/">React Daily UI - 003 посадочная страница</a> (React Daily UI - 003 Landing Page)</li>
+                <li><i class="en"></i> <a href="https://github.com/gabrielbull/react-router-server">react-router-server &mdash; рендеринг на серверной стороне для React Router v4</a> (react-router-server &mdash; Server Side Rendering library for React Router v4.)</li>
+                <li><i class="en"></i> <a href="http://blog.thoughtram.io/angular/2016/10/13/two-way-data-binding-in-angular-2.html">Двусторонний data-биндинг в Angular 2</a> (Two-way Data Binding in Angular 2)</li>
+                <li><i class="en"></i> <a href="http://angularjs.blogspot.com/2016/10/angular-210-now-available.html">Angular 2.1.0 уже доступен</a> (Angular 2.1.0 Now Available)</li>
+                <li><i class="en"></i> <a href="http://www.creativebloq.com/how-to/build-a-material-design-app-with-angular-2">Создание приложения с Material Design с Angular 2</a> (Build a Material Design app with Angular 2)</li>
+                <li><i class="en"></i> <a href="https://blog.jscrambler.com/getting-started-with-angular-2-end-to-end-testing/">Начало работы с Angular 2 End To End тестированием</a> (Getting Started with Angular 2 End To End Testing)</li>
+                <li><i class="en"></i> <a href="http://developer.telerik.com/featured/angular-2-patterns-angular-1-x-apps/">Паттерны Angular 2 ля Angular 1.x приложений</a> (Angular 2 Patterns for Angular 1.x Apps)</li>
+                <li><i class="en"></i> <a href="http://blog.thoughtram.io/angular/2016/10/10/resolving-route-data-in-angular-2.html">Разбираемся с данными роутера в Angular 2</a> (Resolving route data in Angular 2)</li>
+                <li><i class="en"></i> <a href="http://blog.wolksoftware.com/contributing-to-definitelytyped">Как создавать собственные TypeScript файлы с определением типов (.d.ts) и добавлять их в DefinitelyTyped на GitHub</a> (How to create your own TypeScript type definition files (.d.ts) and contribute to DefinitelyTyped on GitHub)</li>
+                <li><i class="en"></i> <a href="http://developer.telerik.com/featured/is-jquery-still-relevant/">Актуальна ли ещё jQuery?</a> (Is jQuery Still Relevant?)</li>
+                <li><i class="en"></i> <a href="https://www.sitepoint.com/13-jquery-selectboxdrop-down-plugins/">Чёртова дюжина отборных элементов для выбора jQuery SelectBox/Drop-down плагинов</a> (13 jQuery SelectBox/Drop-down Plugins)</li>
+                <li><i class="yt"></i> <i class="en"></i> <i class="yt"></i> <a href="https://www.youtube.com/watch?v=Eqg_IqVeI5s">Как сделать разработку с Electron проще, приятнее, и более продуктивной - GitHub Universe 2016</a> (Making Electron Development Simpler, More Pleasant, and More Productive - GitHub Universe 2016)</li>
+                <li><i class="en"></i> <a href="http://jadeallencook.github.io/gDoc.js/">Используйте gDoc.js для своей CMS</a> (Use gDoc.js for your CMS)</li>
+                <li><i class="en"></i> <a href="http://www.cerebraljs.com/">CerebralJS &mdash; подходит для сложных приложений</a> (CerebralJS &mdash; make sense of complex apps)</li>
+                <li><i class="en"></i> <a href="http://tesseract.projectnaptha.com/">Порт движка по распознаванию изображений Tesseract на JavaScript</a> (Tesseract.js is a pure Javascript port of the popular Tesseract OCR engine.)</li>
+                <li><i class="en"></i> <a href="http://kenwheeler.github.io/slick/">slick &mdash; адаптивный слайдер</a> (slick &mdash; the last carousel you'll ever need)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="news" class="ico_news">Новости</h3>
+            <ul>
+                <li><a href="http://www.computerra.ru/156884/note-7/">Кто «подложил бомбу» в смартфоны Samsung?</a></li>
+                <li><a href="http://keddr.com/2016/10/ofitsialnoe-zayavlenie-samsung-o-situatsii-s-galaxy-note-7/">Официальное заявление Samsung о ситуации с Galaxy Note 7</a></li>
+                <li><a href="http://gagadget.com/samsung-galaxy-note-7/24083-samsung-razoslala-ogneupornyie-korobki-dlya-vozvrata-galaxy-note-7/">Samsung разослала огнеупорные коробки для возврата Galaxy Note 7</a></li>
+                <li><a href="http://gagadget.com/samsung-galaxy-note-7/24098-chto-sluchilos-s-samsung-galaxy-note-7-i-pochemu-on-gorit/">Что случилось с Samsung Galaxy Note 7 и почему он горит</a></li>
+                <li><a href="https://vc.ru/p/recent-failers">«Samsung, ты не одна»</a></li>
+                <li><a href="http://gagadget.com/24072-bolshaya-nejronnaya-vojna-chto-na-samom-dele-zatevaet-google/">Большая нейронная война: что на самом деле затевает Google</a></li>
+                <li><a href="http://keddr.com/2016/10/chto-ponyal-pavel-durov-v-protsesse-sozdaniya-vkontakte/">Что понял Павел Дуров в процессе создания «ВКонтакте»</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="browser" class="ico_brows first">Браузеры</h3>
+            <ul>
+                <li><a href="http://www.opennet.ru/opennews/art.shtml?num=45313">Выпуск web-браузера Chrome 54</a></li>
+                <li><a href="http://keddr.com/2016/10/nakonets-to-poleznoe-obnovlenie-google-chrome/">Наконец-то, полезное обновление Google Chrome!</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="interesting" class="ico_interesting">Занимательное</h3>
+            <ul>
+                <li><a href="http://ain.ua/2016/10/15/676054">Пользователи Twitter во второй раз похоронили легендарного программиста, создателя языка С и UNIX</a></li>
+                <li><i class="en"></i> <a href="http://www.webdesignerdepot.com/2016/10/the-surprising-history-of-emojis/">Удивительная история эмодзи</a> (The surprising history of emojis)</li>
+                <li><a href="http://gagadget.com/science/24100-inzheneryi-mit-sozdali-photoshop-dlya-3d-pechati/">Инженеры MIT создали «Photoshop для 3D-печати»</a></li>
+                <li><a href="http://gagadget.com/3d-printers/24069-pyat-prichin-kupit-domashnij-3d-printer/">Пять причин купить домашний 3D-принтер</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
