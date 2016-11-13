@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digest</title>
+    <meta name="description"   content="KharkivCSS"/>
+    <meta name="keywords" content="KharkivCSS"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="main">
+        <div>
+            <h3 id="development" class="ico_development">Веб-разработка</h3>
+            <ul>
+                <li><a href="http://www.opennet.ru/opennews/art.shtml?num=45469">HTML 5.1 получил статус рекомендованного стандарта</a></li>
+                <li><i class="en"></i> <a href="https://medium.com/@luisvinicius/webcomponents-a39ad29c436b#.11s5gscti">Веб компоненты</a> (Web Components)</li>
+                <li><i class="en"></i> <a href="http://mediatemple.net/blog/tips/carousels-dont-have-to-be-complicated/">Карусели не должны быть сложными</a> (Carousels Don’t Have to be Complicated)</li>
+                <li><a href="http://ain.ua/2016/11/10/680000">Push-уведомления в браузере 1,5 года спустя: статистика и полезные советы</a></li>
+                <li><i class="en"></i> <a href="https://medium.com/@unakravets/rethinking-responsive-d557ef1745bd#.mmvij624m">Переосмысления адаптивного дизайна</a> (Rethinking Responsive Design)</li>
+                <li><i class="en"></i> <a href="http://blog.davidecoppola.com/2016/11/howto-contribute-to-open-source-project-on-github/">Как участвовать в open source project на GitHub</a> (How to contribute to an open source project on GitHub)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="css" class="ico_css">CSS</h3>
+            <ul>
+                <li><a href="http://frontender.info/methods-controlling-spacing-web-typography/">Методы управления интервалами в веб-типографике</a></li>
+                <li><a href="http://www.dejurka.ru/css/straight-drop-shadow/">Создание тени от приподнятого угла с использованием CSS</a></li>
+                <li><i class="en"></i> <a href="https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/">CSS Grid, Flexbox и Box Alignment: наша новая система для веб разметки</a> (CSS Grid, Flexbox And Box Alignment: Our New System For Web Layout)</li>
+                <li><i class="en"></i> <a href="https://www.sitepoint.com/future-css-with-postcss-cssnext/">Начни с будщим CSS-а с PostCSS-cssnext</a> (Get Started on the CSS of the Future with PostCSS-cssnext)</li>
+                <li><i class="en"></i> <a href="https://css-tricks.com/state-responsive-3d-shapes/">Состояние адаптивных 3D форм</a> (The State of Responsive 3D Shapes)</li>
+                <li><i class="en"></i> <a href="https://medium.freecodecamp.com/explained-css-pseudo-classes-cef3c3177361#.nuzz7ttvr">Объяснение работы CSS псевдоклассов с помощью кода и множества диаграмм</a> (How CSS pseudo-classes work, explained with code and lots of diagrams)</li>
+                <li><i class="en"></i> <a href="https://hackernoon.com/if-css-is-so-easy-why-does-everyone-suck-e4442cc9428a#.sp74s6poj">Если CSS так прост почему каждый лажает?</a> (If CSS is so easy why does everyone suck?)</li>
+                <li><i class="en"></i> <a href="https://zellwk.com/blog/responsive-grid-system/">Как создавать адаптивные сетки</a> (How to build a responsive grid system)</li>
+                <li><i class="en"></i> <a href="https://css-tricks.com/the-power-of-rgba/">Сила цветовых rgba() функций в CSS</a> (The Power of the rgba() Color Function in CSS)</li>
+                <li><i class="en"></i> <a href="http://www.lottejackson.com/learning/supports-will-change-your-life">@supports изменит твою жизнь</a> (@supports will change your life)</li>
+                <li><i class="en"></i> <a href="http://codepen.io/danwilson/post/css-motion-paths-2016">CSS Motion Path в октябре 2016</a> (CSS Motion Path as of October 2016)</li>
+                <li><a href="http://www.dejurka.ru/css/css-animated-neon-sign/">Создание анимированной неоновой вывески с использованием CSS</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="js" class="ico_js">JavaScript</h3>
+            <ul>
+                <li><i class="en"></i> <a href="http://jsawards.org/">JavaScript Awards 2016</a> (The JavaScript WeeklyJS Awards 2016)</li>
+                <li><i class="en"></i> <a href="https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more/">TypeScript 2.1 RC: улучшения</a> (TypeScript 2.1 RC: Better Inference, Async Functions, and More)</li>
+                <li><i class="en"></i> <a href="http://unwttng.com/javascripts-async-and-await-what-problem-do-they-solve/">Javascript async and await - какие проблемы они решают?</a> (Javascript's async and await - what problem do they solve?)</li>
+                <li><i class="en"></i> <a href="https://blog.risingstack.com/writing-a-javascript-framework-data-binding-es6-proxy/">Написание JavaScript фреймворка - привязка данных с ES6 Proxies</a> (Writing a JavaScript Framework - Data Binding with ES6 Proxies)</li>
+                <li><i class="en"></i> <a href="https://www.codementor.io/johnnyb/tutorials/javascript-cheatsheet-fb54lz08k">Объемная шпаргалка по JavaScript</a> (The Ultimate JavaScript Cheat Sheet)</li>
+                <li><i class="en"></i> <a href="http://cssence.com/blog/2016-11-the-javascript-wars">JavaScript войны</a> (The JavaScript Wars)</li>
+                <li><i class="en"></i> <a href="https://www.thoughtworks.com/radar/languages-and-frameworks">Технологический радар по фреймворкам и библиотекам</a> (TECHNOLOGY RADAR)</li>
+                <li><i class="en"></i> <a href="https://www.sitepoint.com/logging-errors-client-side-apps/">Журнал ошибок в клиентских приложениях</a> (Logging Errors in Client-Side Applications)</li>
+                <li><i class="en"></i> <a href="https://davidwalsh.name/es6-features">Шесть мелких но выдающихся особенностей ES6</a> (Six Tiny But Awesome ES6 Features)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@skidding/fighting-for-component-independence-2a762ee53272#.mx0na59ix">Борьба за независимость компонента</a> (Fighting for Component Independence)</li>
+                <li><i class="en"></i> <a href="http://mherman.org/blog/2016/11/05/developing-a-restful-api-with-node-and-typescript/">Разработка RESTful API с Node и TypeScript</a> (Developing a RESTful API With Node and TypeScript)</li>
+                <li><i class="en"></i> <a href="https://60devs.com/building-a-reactive-todo-app-using-cellx-and-react.html">Создание реактивного приложения с помощью Cellx и React</a> (Building a Reactive App Using Cellx and React)</li>
+                <li><i class="en"></i> <a href="https://scotch.io/tutorials/multifactor-authentication-in-your-react-apps">Многофакторная авторизация в React приложениях</a> (Multifactor Authentication in your React Apps)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.9xpwoyc8m">Как я изучил React и ты можешь сделать то же самое</a> (How I learned React and how you can too)</li>
+                <li><i class="en"></i> <a href="https://medium.com/js-dojo/4-things-vue-js-got-right-10820cc84004#.zgjx6ptgm">Четыре вещи сделанные верно в Vue.js</a> (4 Things Vue.js Got Right)</li>
+                <li><i class="en"></i> <a href="https://paulund.co.uk/vuejs-binding-to-a-class">VueJS: привязка к классу</a> (VueJS: Binding To A Class)</li>
+                <li><i class="en"></i> <a href="https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/">Создание Vue v2 JS приложения с использованием Vue-router</a> (Building a Vue v2 JS app using Vue-router)</li>
+                <li><i class="en"></i> <a href="https://blog.callstack.io/typed-redux-2aa8bff926ff#.udlvm1mbx">Типизированный Redux</a> (Typed Redux)</li>
+                <li><i class="en"></i> <a href="https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178#.4mm4ekhpe">Тестирование React Native и Redux</a> (Testing React Native and Redux)</li>
+                <li><i class="en"></i> <a href="https://toddmotto.com/modern-angular-interview-questions">Современные необходимые вопросы на собеседованию по Angular 1.x</a> (Modern Angular 1.x essential interview questions)</li>
+                <li><i class="en"></i> <a href="http://www.infoworld.com/article/3139891/javascript/angular-3-is-hot-on-the-heels-of-angular-2.html">Angular 3 по горячим следам Angular 2</a> (Angular 3 is hot on the heels of Angular 2)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@NetanelBasal/angular-2-custom-exception-handler-1bcbc45c3230#.aeorids7f">Angular 2 — Custom Exception Handler</a></li>
+                <li><i class="en"></i> <a href="https://medium.com/@ct7/building-a-reusable-table-layout-for-your-angular-2-project-adf6bba3b498#.8vj7ofqss">Создание табличной разметки для дальнейшего использования в Angular 2 проектах</a> (Building a reusable table layout for your Angular 2 project)</li>
+                <li><i class="en"></i> <a href="https://github.com/zaqqaz/ng2-rest-api">ng2-rest-api</a></li>
+                <li><i class="en"></i> <a href="https://semaphoreci.com/community/tutorials/testing-services-in-angular-2">Тестирование сервисов в Angular 2</a> (Testing Services in Angular 2)</li>
+                <li><i class="en"></i> <a href="https://github.com/aserg-ufmg/JSCity/wiki/JSCITY">JSCITY &mdash; визуализация исходного кода библиотек в виде городов</a> (JSCITY &mdash; is an implementation of the Code City metaphor for visualizing source code)</li>
+                <li><i class="en"></i> <a href="https://code.visualstudio.com/blogs/2016/10/31/js_roundup_2">JavaScript расширения часть 2</a> (JavaScript Extensions Part 2)</li>
+                <li><i class="en"></i> <a href="https://www.sitepoint.com/12-amazing-jquery-tables//">12 прекрасных jQuery таблиц</a> (12 Amazing jQuery Tables)</li>
+                <li><i class="en"></i> <a href="https://developer.ibm.com/open/eclairjs/">EclairJS &mdash; API для Apache Spark</a> (EclairJS provides JavaScript developers with an API to Apache Spark so they can take advantage of Spark’s scalable streaming, SQL, machine-learning, graph capabilities.)</li>
+                <li><i class="en"></i> <a href="http://untangled.io/the-missing-immutable-js-manual/">Недостающее руководство по Immutable.js со всеми необходимыми примерами</a> (The Missing Immutable.js Manual with all the Examples you’ll ever need)</li>
+                <li><i class="en"></i> <a href="https://github.com/turbo/js">turbo.js - выполняет массивные параллельные вычисления в браузере с GPGPU</a> (turbo.js - perform massive parallel computations in your browser with GPGPU)</li>
+                <li><i class="en"></i> <a href="https://github.com/WhitestormJS/whitestorm.js">whitestorm.js &mdash; фреймворк для разработки 3D веб-приложений с физикой.</a> (whitestorm.js &mdash; Framework for developing 3D web apps with physics.)</li>
+                <li><i class="en"></i> <a href="http://www.jeffreybiles.com/build-pacman">Курс создания игры Pacman</a> (Build Pacman)</li>
+                <li><i class="en"></i> <a href="http://codepen.io/fm_ph/pen/LbYjjx">#CodeVember 04 - комиксы с canvas</a> (#CodeVember 04 - Pili's Inktober)</li>
+                <li><i class="en"></i> <a href="http://codepen.io/danhannigan/full/QGLqNN">#codevember День 2: Генератор случайных и смешных SVG лиц!</a> (#codevember Day 2: Random SVG Faces for fun!)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="news" class="ico_news">Новости</h3>
+            <ul>
+                <li><a href="http://ain.ua/2016/11/09/680846">We’re f*cked: реакция Кремниевой долины на победу Дональда Трампа</a></li>
+                <li><a href="http://itc.ua/news/tim-kuk-napisal-pismo-sotrudnikam-apple-v-svyazi-s-pobedoy-trampa-na-vyiborah-i-prizval-splotitsya/">Тим Кук написал письмо сотрудникам Apple в связи с победой Трампа на выборах и призвал сплотиться</a></li>
+                <li><a href="https://vc.ru/p/against-apple">Все против Apple: критика компании в рекламе конкурентов</a></li>
+                <li><a href="http://gagadget.com/business/24468-apple-investiruet-4-mlrd-v-proizvodstvo-oled-displeev/">Apple инвестирует $4 млрд в производство OLED-дисплеев</a></li>
+                <li><a href="https://xakep.ru/2016/11/10/webview-tel-uri/">Баг в iOS WebView заставляет iPhone звонить на произвольные номера</a></li>
+                <li><a href="http://gagadget.com/business/24489-macbook-pro-s-touch-bar-bet-rekordyi-prodazh/">MacBook Pro с Touch Bar бьет рекорды продаж</a></li>
+                <li><a href="https://xakep.ru/2016/11/11/muldrop/">В Google Play найден троян MulDrop, загруженный более 1 000 000 раз</a></li>
+                <li><a href="https://vc.ru/n/google-android-eu-pay">Google пригрозила повышением цен на все Android-устройства из-за претензий Еврокомиссии</a></li>
+                <li><a href="https://vc.ru/n/yahoo-troubles">Yahoo впервые усомнилась в возможности продать свой бизнес из-за кражи данных 500 млн аккаунтов</a></li>
+                <li><a href="http://www.cossa.ru/news/145194/">«Яндекс» открывает API для воспроизведения аудио</a></li>
+                <li><a href="http://www.cossa.ru/news/145207/">YouTube начал поддерживать HDR-видео</a></li>
+                <li><a href="http://gagadget.com/announce/24432-adobe-razrabatyivaet-photoshop-dlya-audio/">Adobe разрабатывает «Photoshop для аудио»</a></li>
+                <li><a href="https://xakep.ru/2016/11/11/spotify-junk-data/">Приложение Spotify «убивает» диски пользователей, записывая сотни гигабайт данных в день</a></li>
+                <li><a href="https://tjournal.ru/37131-v-set-utekli-paroli-412-millionov-polzovatelei-krupneishego-saita-znakomstv-adultfriendfinder">В сеть утекли пароли 412 миллионов пользователей крупнейшего сайта знакомств AdultFriendFinder</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="browser" class="ico_brows first">Браузеры</h3>
+            <ul>
+                <li><a href="http://gagadget.com/announce/24509-google-chrome-ustanovlen-na-2-mlrd-ustrojstv/">Google Chrome установлен на 2 млрд устройств</a></li>
+                <li><a href="http://gagadget.com/24483-chrome-dlya-android-nachnet-podderzhivat-virtualnuyu-realnost/">Chrome для Android начнет поддерживать виртуальную реальность</a></li>
+                <li><i class="en"></i> <a href="https://www.chromestatus.com/feature/6190250464378880">Position Sticky в Chrome 56</a> (Chrome Platform Status)</li>
+                <li><a href="https://xakep.ru/2016/11/08/wot-fail/">Браузерный аддон Web Of Trust, установленный 140 млн раз, продавал данные пользователей</a></li>
+                <li><a href="http://gagadget.com/24433-internet-explorer-poteryal-331-mln-polzovatelej-i-ustupil-liderstvo-chrome/">Internet Explorer потерял 331 млн пользователей и уступил лидерство Chrome</a></li>
+                <li><a href="http://www.opennet.ru/opennews/art.shtml?num=45480">В Firefox появилась многопроцессная обработка контента и Quantum Compositor</a></li>
+                <li><a href="http://gagadget.com/announce/24507-v-bete-yandeksbrauzera-dlya-pk-poyavilis-funktsii-vyinosa-video-i-chteniya/">В бетe Яндекс.Браузера для ПК появились функции выноса видео и чтения</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="interesting" class="ico_interesting">Занимательное</h3>
+            <ul>
+                <li><a href="http://keddr.com/2016/11/kak-otklyuchit-reklamu-v-windows-10/">Как отключить рекламу в Windows 10</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
