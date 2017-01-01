@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Digest</title>
+    <meta name="description"   content="KharkivCSS"/>
+    <meta name="keywords" content="KharkivCSS"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+    <div class="main">
+        <div>
+            <h3 id="development" class="ico_development">Веб-разработка</h3>
+            <ul>
+                <li><i class="en"></i> <a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.ocockiuwq" data-mce-href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd#.ocockiuwq">Что стоит изучить фронтэндеру в 2017-м</a> (What to learn in 2017 if you’re a frontend developer)</li>
+                <li><i class="en"></i> <a href="https://hackernoon.com/10-things-i-learned-making-the-fastest-site-in-the-world-18a0e1cdf4a7#.727lhxjk1">Десять вещей о которых я узнал создавая самый быстрый сайт в мире</a> (10 things I learned making the fastest site in the world)</li>
+                <li><i class="en"></i> <a href="https://playcode.io/">Песочница PlayCode.io</a> (Test your JavaScript, CSS, HTML, CoffeeScript or TypeScript online with PlayCode code editor.)</li>
+                <li><i class="en"></i> <a href="https://viacreative.co.uk/culture/anatomy-web-request" data-mce-href="https://viacreative.co.uk/culture/anatomy-web-request">Анатомия веб-запросов</a> (The Anatomy of a Web Request)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="css" class="ico_css">CSS</h3>
+            <ul>
+                <li><a href="https://medium.com/@meuwka/%D0%BB%D0%B0%D0%BF%D1%88%D0%B0-%D0%B2-css-cc04fb254712#.d7iks7psq">Лапша в CSS</a></li>
+                <li><i class="en"></i> <a href="http://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design" data-mce-href="http://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design">Учимся у Lego: шаг вперёд с модульным веб дизайном</a> (Learning from Lego: A Step Forward in Modular Web Design)</li>
+                <li><i class="en"></i> CSS анимашка:  <a href="http://codepen.io/andrewhawkes/pen/PbddJZ">SCSS random() Ёлка</a> (SCSS random() Christmas Tree)</li>
+                <li><i class="en"></i> <a href="http://codepen.io/katydecorah/pen/vydKyK">Снежинка на чистом CSS</a> (Snowflaker 2016)</li>
+                <li><i class="en"></i> CSS анимашка: <a href="http://codepen.io/hexagoncircle/pen/WoWQEO">Доставка на утро Рождества</a> (Deliver on Christmas Morning)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="js" class="ico_js">JavaScript</h3>
+            <ul>
+                <li><i class="en"></i> <a href="http://www.techbeamers.com/best-javascript-ide-web-development/">Десятка лучших IDE дле веб разработчиков при работе с JavaScript</a> (Top 10 Javascript IDEs for Web Development – Watch Out)</li>
+                <li><i class="en"></i> <a href="https://ponyfoo.com/articles/terrible-code-sane-people" data-mce-href="https://ponyfoo.com/articles/terrible-code-sane-people">Как здравомыслящие люди пишут ужасный код</a> (How Terrible Code Gets Written by Perfectly Sane People)</li>
+                <li><i class="en"></i> <a href="https://ponyfoo.com/articles/var-let-const" data-mce-href="https://ponyfoo.com/articles/var-let-const">Давайте использовать const! И вот почему.</a> (Let’s use const! Here’s why.)</li>
+                <li><i class="en"></i> <a href="https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311" data-mce-href="https://swizec.com/blog/animating-svg-nodes-react-preact-inferno-vue/swizec/7311">Анимированные 2048 SVG узлы реализованный с помощью React, Preact, Inferno, Vue, Angular 2, и CycleJS – пошаговое сравнение</a> (Animating 2048 SVG nodes in React, Preact, Inferno, Vue, Angular 2, and CycleJS – a side-by-side comparison)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@tarkus/build-automation-with-vanilla-javascript-74639ec98bad#.yoohqmswv">Создание автоматизации на ванильном JavaScript</a> (Build Automation with Vanilla JavaScript)</li>
+                <li><i class="en"></i> <a href="http://www.nx-framework.com/blog/public/vision/">Модульный front-end</a> (The modular front-end)</li>
+                <li><i class="en"></i> <a href="https://tylermcginnis.com/react-aha-moments/">Лучшие практики и особенности React</a> (React "Aha" Moments)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@tomsu/7-must-have-visual-studio-code-extensions-for-angular-af9c476147fd#.yzymfqp46">Семь необходимых расширений Visual Studio Code для работы с Angular</a> (7 must-have Visual Studio Code extensions for Angular)</li>
+                <li><i class="en"></i> <a href="https://medium.com/js-dojo/react-or-vue-which-javascript-ui-library-should-you-be-using-543a383608d#.ygcrhhw2z">React или Vue: Какую UI библиотеку ты должен использовать?</a> (React or Vue: Which Javascript UI Library Should You Be Using?)</li>
+                <li><i class="en"></i> <a href="https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3#.7dx8lshfo">Vue в 2016-м</a> (Vue in 2016)</li>
+                <li><i class="en"></i> <a href="https://medium.com/@cnunciato/a-simple-mock-component-for-angular-2-d79bd58a7b31#.ihw3idqkq">Простой Mock компонент для Angular 2</a> (A Simple Mock Component for Angular 2)</li>
+                <li><i class="en"></i> <a href="https://blog.nrwl.io/essential-angular-dependency-injection-a6b9dcca1761#.4dup9jwu6">Существенное в Angular: Dependency Injection</a> (Essential Angular: Dependency Injection)</li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="news" class="ico_news">Новости</h3>
+            <ul>
+                <li><a href="http://itc.ua/news/novosti-windows-10-zelenyiy-ekran-smerti-v-beta-versiyah-i-spetsialnyiy-igrovoy-rezhim/">Новости Windows 10: зеленый экран смерти в бета-версиях и специальный игровой режим</a></li>
+                <li><a href="http://gagadget.com/announce/25142-v-windows-10-creators-update-mozhno-budet-obedinyat-prilozheniya-v-papki/">В Windows 10 Creators Update можно будет объединять приложения в папки</a></li>
+                <li><a href="http://gagadget.com/business/25179-apple-priznana-samoj-vliyatelnoj-kompaniej-2016-goda/">Apple признана самой влиятельной компанией 2016 года</a></li>
+                <li><a href="http://gagadget.com/itogi-goda/25177-itogi-2016-goda-luchshie-gadzhetyi-uhodyaschego-goda/">Лучшие гаджеты года</a></li>
+                <li><a href="http://ain.ua/samolet-virgin-opozdal-iz-za-galaxy-note-7" data-mce-href="http://ain.ua/samolet-virgin-opozdal-iz-za-galaxy-note-7">Самолет Virgin опоздал из-за шутника, назвавшего WiFi-точку «Galaxy Note 7»</a></li>
+                <li><a href="https://tjournal.ru/39244-v-ssha-shestiletnyaya-devochka-obmanula-touch-id-na-aifone-mami-dlya-pokupki-igrushek">В США шестилетняя девочка обманула Touch ID на айфоне мамы для покупки игрушек</a></li>
+            </ul>
+        </div>
+        <div>
+            <h3 id="browser" class="ico_brows first">Браузеры</h3>
+            <ul>
+                <li><a href="http://www.dejurka.ru/articless/clever-chrome-extensions-web-design/">20 расширений Chrome для дизайнеров и веб-разработчиков</a></li>
+            </ul>
+        <div>
+            <h3 id="interesting" class="ico_interesting">Занимательное</h3>
+            <ul>
+                <li><a href="https://vc.ru/p/employees-gifts-2017">Что дарят своим сотрудникам на Новый год Apple, Mail.Ru Group, Riot Games и другие компании</a></li>
+                <li><a href="http://www.cossa.ru/152/149035/">Новогодние офисы интернет-компаний: кто как готовится к&nbsp;празднику. Часть&nbsp;3</a></li>
+                <li><a href="http://ain.ua/kakovo-eto-rabotat-v-snapchat">Каково это — работать в Snapchat, одной из самых скрытных хайтек-компаний</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
