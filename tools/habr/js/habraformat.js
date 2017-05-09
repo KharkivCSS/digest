@@ -128,7 +128,7 @@
         // Replace Занимательное
         input = input.replace(' id="interesting" class="ico_interesting">', '><anchor>intresting</anchor><img src="http://habr.habrastorage.org/post_images/d4b/289/ef0/d4b289ef0a00e969108c25d0c3d75f58.gif"/> ');
 
-        var contest = '<table><tbody><tr><td><a href="#webdev"><b>Веб-разработка</b></a></td></tr><tr><td><a href="#css"><b>CSS</b></a></td></tr><tr><td><a href="#js"><b>Javascript</b></a></td></tr><tr><td><a href="#browser"><b>Браузеры</b></a></td></tr><tr><td><a href="#design"><b>Дизайн</b></a></td></tr><tr><td><a href="#news"><b>Новости</b></a></td></tr><tr><td><a href="#intresting"><b>Занимательное</b></a></td></tr></tbody></table>\n\n';
+        var contest = '<table><tbody><tr><td><a href="#webdev"><b>Веб-разработка</b></a></td></tr><tr><td><a href="#css"><b>CSS</b></a></td></tr><tr><td><a href="#js"><b>Javascript</b></a></td></tr><tr><td><a href="#browser"><b>Браузеры</b></a></td></tr><tr><td><a href="#intresting"><b>Занимательное</b></a></td></tr></tbody></table>\n\n';
 
         var final1 = '<p>Просим прощения за возможные опечатки или неработающие/дублирующиеся ссылки. Если вы заметили проблему — напишите пожалуйста в личку, мы стараемся оперативно их исправлять. </p>\n\n';
 
