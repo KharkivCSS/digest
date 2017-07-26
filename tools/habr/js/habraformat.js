@@ -100,17 +100,17 @@
         // Replace habr
         input = input.replace(/<i class="habr"><\/i>/gi, '<img alt="habr" src="http://habrastorage.org/storage2/c57/b92/af4/c57b92af4ee0d37f787c211a068b1b95.png"/>');
         // Replace amp
-        input = input.replace(/<i class="amp"><\/i>/gi, '<img alt="AMP" src="https://habrastorage.org/web/6af/b93/148/6afb93148d3447d3b68bf13d32f36d93.png"><img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
+        input = input.replace(/<i class="amp"><\/i>/gi, '<img alt="AMP" src="https://habrastorage.org/web/6af/b93/148/6afb93148d3447d3b68bf13d32f36d93.png"> <img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
         // Replace pwa
-        input = input.replace(/<i class="pwa"><\/i>/gi, '<img alt="pwa" src="https://habrastorage.org/web/dc5/696/b7f/dc5696b7fbef409eb5e2921500a26c3d.png"><img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
+        input = input.replace(/<i class="pwa"><\/i>/gi, '<img alt="pwa" src="https://habrastorage.org/web/dc5/696/b7f/dc5696b7fbef409eb5e2921500a26c3d.png"> <img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
         // Replace ff
-        input = input.replace(/<i class="ff"><\/i>/gi, '<img alt="Firefox" src="https://habrastorage.org/web/658/e68/375/658e68375138497db4e8be50a3c603e8.png"><img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
+        input = input.replace(/<i class="ff"><\/i>/gi, '<img alt="Firefox" src="https://habrastorage.org/web/658/e68/375/658e68375138497db4e8be50a3c603e8.png"> <img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
         // Replace codepen
-        input = input.replace(/<i class="cp"><\/i>/gi, '<img alt="codepen" src="https://habrastorage.org/web/75b/af7/c56/75baf7c564444166b143369dd9e97586.png"><img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
+        input = input.replace(/<i class="cp"><\/i>/gi, '<img alt="codepen" src="https://habrastorage.org/web/75b/af7/c56/75baf7c564444166b143369dd9e97586.png"> <img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
         // Replace github
-        input = input.replace(/<i class="gh"><\/i>/gi, '<img alt="Github" src="https://habrastorage.org/web/090/49e/c0e/09049ec0e7d3404e8b0c6e369b826001.png"><img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
+        input = input.replace(/<i class="gh"><\/i>/gi, '<img alt="Github" src="https://habrastorage.org/web/090/49e/c0e/09049ec0e7d3404e8b0c6e369b826001.png"> <img alt="en" src="http://habrastorage.org/storage3/2e2/522/737/2e2522737ec404a9f76047e108dfaea0.gif"/>');
         // Replace podcast
-        input = input.replace(/<i class="podcast"><\/i>/gi, '<img alt="podcast" src="https://habrastorage.org/web/259/2f4/069/2592f40697cc49dc939e9fc3983fc737.png">');
+        input = input.replace(/<i class="pc"><\/i>/gi, '<img alt="podcast" src="https://habrastorage.org/web/259/2f4/069/2592f40697cc49dc939e9fc3983fc737.png">');
         // Replace fun
         input = input.replace(/<i class="fun"><\/i>/gi, '<img alt=":)" src="http://habrastorage.org/storage3/fb1/fc6/10f/fb1fc610f94ee43acd4f894c3166ced7.gif"/>');
         // Replace vidoe
